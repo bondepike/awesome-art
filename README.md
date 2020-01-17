@@ -6,7 +6,7 @@ Lists of great and accessible(ie. no fine-art) art.
 
 ## Individuals
 
-- [Tim Lehi](https://timlehi.bigcartel.com/) - One of my favourite artists right now.
+- [Tim Lehi](https://timlehi.bigcartel.com/) - 🤩
 
 - [Laila McQueen](https://lailamcqueen.bigcartel.com/)
 
@@ -24,7 +24,7 @@ Lists of great and accessible(ie. no fine-art) art.
 
 ### Fonts
 
-- [Good Type Foundry](https://www.goodtypefoundry.com/) - Special fonts
+- [Good Type Foundry](https://www.goodtypefoundry.com/)
 
 - [ITC Clearface](https://www.myfonts.com/fonts/itc/clearface/)
 
@@ -32,6 +32,6 @@ Lists of great and accessible(ie. no fine-art) art.
 
 - [Spoke Art](https://spoke-art.com/) - Pop/contemporary culture.
 
-- [Raking Light Projects](https://rakinglightprojects.com/) - Prints by tatto artists
+- [Raking Light Projects](https://rakinglightprojects.com/) - Prints by tattoo artists.
 
 - [Item Label](https://itemlabel.com/)
