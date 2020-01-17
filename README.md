@@ -22,6 +22,8 @@ Lists of great and accessible(ie. no fine-art) art.
 
 - [Eiffel Art](https://imbroke.fyi/)
 
+- [Julie Aida](https://julieaida.com/)
+
 ### Fonts
 
 - [Good Type Foundry](https://www.goodtypefoundry.com/)
